@@ -2,5 +2,5 @@
 pequeno projeto utilizando url amigável no padrão mvc 
 -em minhas controllers eu fiz o uso do require_once! para simplicar.
 -não utilizei  composer.
--esse é um dos meus primeiros projetos pois estou iniciando na programação! 
+
 
